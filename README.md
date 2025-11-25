@@ -83,7 +83,3 @@ Sinta-se livre para usar, modificar e compartilhar.
 ## 👨‍💻 Autor
 
 Desenvolvido por **[Calebe Medeiros](https://github.com/calebemedeiros)** ✨
-
-```
-
-```
