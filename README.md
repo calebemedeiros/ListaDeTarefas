@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./preview.png" width="100%">
+  <img alt="projeto DevLinks" src="./assets/preview.png" width="100%">
 </p>
 
 # 📝 Lista de Tarefas
