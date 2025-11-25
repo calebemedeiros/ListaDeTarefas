@@ -1,12 +1,12 @@
 <h1 align="center"> Lista de Tarefas - FSC </h1>
 
 <p align="center">
-  <a href="##-🚀-Funcionalidades">🚀 Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="##-🌐-Demonstração">🌐 Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="##-🛠️-Tecnologias-Utilizadas">🛠️ Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="##-📦-Como-executar-localmente">📦 Como executar localmente</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="##-🤝-Contribuição">🤝 Contribuição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="##-📄-Licença">Licença</a>
+  <a href="##-funcionalidades">🚀 Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="##-demonstração">🌐 Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="##-tecnologias-utilizadas">🛠️ Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="##-como-executar-localmente">📦 Como executar localmente</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="##-contribuição">🤝 Contribuição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="##-licença">Licença</a>
 </p>
 
 <p align="center">
